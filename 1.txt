@@ -1,0 +1,13 @@
+bind "SPACE" "+jump"
+
+小奏账号：likai3366390
+a19871216
+
+CPUCores :: Maximize Your FPS+
+viewmodel_recoil 0取消手臂抖动
+
+alias +cjump “+jump; +duck”
+
+alias -cjump “-jump; -duck”
+
+bind “alt” “+cjump”
